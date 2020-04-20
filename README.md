@@ -1,1 +1,3 @@
-# webapp-maven-helloworld
+# maven-project
+
+Simple Maven Project
